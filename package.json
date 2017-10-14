@@ -1,0 +1,24 @@
+{
+  "name": "liriapp",
+  "version": "1.0.0",
+  "description": "a liri app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erev1/liri-node-app.git"
+  },
+  "author": "eneida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erev1/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/erev1/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
